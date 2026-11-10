@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "FastAPI REST APIs",
+      "description": "Building REST APIs with the FastAPI framework: routes, path and query parameters, Pydantic validation, and status codes",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }

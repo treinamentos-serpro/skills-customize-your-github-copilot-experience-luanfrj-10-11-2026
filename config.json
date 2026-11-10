@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "http-json-fundamentals",
+      "title": "Fundamentos de HTTP e JSON",
+      "description": "Introdução a JSON, métodos HTTP, caminhos e códigos de status por meio da simulação de uma API REST em Python.",
+      "path": "assignments/http-json-fundamentals",
+      "dueDate": "2026-11-17"
+    },
+    {
+      "id": "java-advanced-testing",
+      "title": "Testes Avançados com Java",
+      "description": "Prática de testes parametrizados com JUnit 5, isolamento de serviços com Mockito e testes de integração em memória.",
+      "path": "assignments/java-advanced-testing",
+      "dueDate": "2026-11-24"
     }
   ]
 }
